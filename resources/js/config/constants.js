@@ -1,5 +1,5 @@
 const constants = {
-  HOST_URL: 'https://laravel-react-boilerplate.herokuapp.com/api',
+  HOST_URL: 'https://wittsgarage.com/api',
   headers: {
     'Content-Type': 'application/json',
     Accept: 'application/json',
